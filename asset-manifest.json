@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/facerecognitionbrain/static/css/main.584f321a.chunk.css",
-    "main.js": "/facerecognitionbrain/static/js/main.e30ba2fb.chunk.js",
-    "main.js.map": "/facerecognitionbrain/static/js/main.e30ba2fb.chunk.js.map",
+    "main.js": "/facerecognitionbrain/static/js/main.0162c0c2.chunk.js",
+    "main.js.map": "/facerecognitionbrain/static/js/main.0162c0c2.chunk.js.map",
     "runtime~main.js": "/facerecognitionbrain/static/js/runtime~main.2d683c34.js",
     "runtime~main.js.map": "/facerecognitionbrain/static/js/runtime~main.2d683c34.js.map",
-    "static/js/2.b41502e9.chunk.js": "/facerecognitionbrain/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/facerecognitionbrain/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.3310f33a.chunk.js": "/facerecognitionbrain/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/facerecognitionbrain/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/facerecognitionbrain/index.html",
-    "precache-manifest.7ca3d3f562f4295a873f6acfaa275517.js": "/facerecognitionbrain/precache-manifest.7ca3d3f562f4295a873f6acfaa275517.js",
+    "precache-manifest.772ad1a36ecd8093d956639ac163cee5.js": "/facerecognitionbrain/precache-manifest.772ad1a36ecd8093d956639ac163cee5.js",
     "service-worker.js": "/facerecognitionbrain/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/facerecognitionbrain/static/css/main.584f321a.chunk.css.map",
-    "static/media/logo.svg": "/facerecognitionbrain/static/media/logo.5d5d9eef.svg"
+    "static/css/main.584f321a.chunk.css.map": "/facerecognitionbrain/static/css/main.584f321a.chunk.css.map"
   }
 }
