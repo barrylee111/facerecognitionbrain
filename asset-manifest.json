@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/facerecognitionbrain/static/css/main.9f029cd0.chunk.css",
-    "main.js": "/facerecognitionbrain/static/js/main.970d4030.chunk.js",
-    "main.js.map": "/facerecognitionbrain/static/js/main.970d4030.chunk.js.map",
+    "main.js": "/facerecognitionbrain/static/js/main.501e23c0.chunk.js",
+    "main.js.map": "/facerecognitionbrain/static/js/main.501e23c0.chunk.js.map",
     "runtime~main.js": "/facerecognitionbrain/static/js/runtime~main.2d683c34.js",
     "runtime~main.js.map": "/facerecognitionbrain/static/js/runtime~main.2d683c34.js.map",
     "static/css/2.31dafeb2.chunk.css": "/facerecognitionbrain/static/css/2.31dafeb2.chunk.css",
     "static/js/2.18f8e44a.chunk.js": "/facerecognitionbrain/static/js/2.18f8e44a.chunk.js",
     "static/js/2.18f8e44a.chunk.js.map": "/facerecognitionbrain/static/js/2.18f8e44a.chunk.js.map",
     "index.html": "/facerecognitionbrain/index.html",
-    "precache-manifest.c662f7ee16b76773efc268b455fff4ef.js": "/facerecognitionbrain/precache-manifest.c662f7ee16b76773efc268b455fff4ef.js",
+    "precache-manifest.64d35e4b525578c70101fc9d386a0d12.js": "/facerecognitionbrain/precache-manifest.64d35e4b525578c70101fc9d386a0d12.js",
     "service-worker.js": "/facerecognitionbrain/service-worker.js",
     "static/css/2.31dafeb2.chunk.css.map": "/facerecognitionbrain/static/css/2.31dafeb2.chunk.css.map",
     "static/css/main.9f029cd0.chunk.css.map": "/facerecognitionbrain/static/css/main.9f029cd0.chunk.css.map"
