@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/facerecognitionbrain/static/css/main.9f029cd0.chunk.css",
-    "main.js": "/facerecognitionbrain/static/js/main.4aeb6fcd.chunk.js",
-    "main.js.map": "/facerecognitionbrain/static/js/main.4aeb6fcd.chunk.js.map",
-    "runtime~main.js": "/facerecognitionbrain/static/js/runtime~main.2d683c34.js",
-    "runtime~main.js.map": "/facerecognitionbrain/static/js/runtime~main.2d683c34.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/facerecognitionbrain/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.18f8e44a.chunk.js": "/facerecognitionbrain/static/js/2.18f8e44a.chunk.js",
-    "static/js/2.18f8e44a.chunk.js.map": "/facerecognitionbrain/static/js/2.18f8e44a.chunk.js.map",
-    "index.html": "/facerecognitionbrain/index.html",
-    "precache-manifest.4f73d36d310dbea7ca2ee16b666d289e.js": "/facerecognitionbrain/precache-manifest.4f73d36d310dbea7ca2ee16b666d289e.js",
-    "service-worker.js": "/facerecognitionbrain/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/facerecognitionbrain/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.9f029cd0.chunk.css.map": "/facerecognitionbrain/static/css/main.9f029cd0.chunk.css.map"
+    "main.css": "/smartbrain/static/css/main.9f029cd0.chunk.css",
+    "main.js": "/smartbrain/static/js/main.ebb24e2f.chunk.js",
+    "main.js.map": "/smartbrain/static/js/main.ebb24e2f.chunk.js.map",
+    "runtime~main.js": "/smartbrain/static/js/runtime~main.54e658c3.js",
+    "runtime~main.js.map": "/smartbrain/static/js/runtime~main.54e658c3.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/smartbrain/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.7ca30bdf.chunk.js": "/smartbrain/static/js/2.7ca30bdf.chunk.js",
+    "static/js/2.7ca30bdf.chunk.js.map": "/smartbrain/static/js/2.7ca30bdf.chunk.js.map",
+    "index.html": "/smartbrain/index.html",
+    "precache-manifest.8e699775ed62d0608e9d687676c9aee3.js": "/smartbrain/precache-manifest.8e699775ed62d0608e9d687676c9aee3.js",
+    "service-worker.js": "/smartbrain/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/smartbrain/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.9f029cd0.chunk.css.map": "/smartbrain/static/css/main.9f029cd0.chunk.css.map"
   }
 }
